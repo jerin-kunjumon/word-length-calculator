@@ -14,4 +14,8 @@ if (text!="") {
 }
 
 document.getElementById("show").innerHTML = numWords
+
+// numWords = text.length;
+// document.getElementById("show").innerHTML = numWords
+
 }
